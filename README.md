@@ -71,17 +71,6 @@ pip install pandas scikit-learn matplotlib seaborn
 python genre_classification.py
 
 Make sure book_genres.csv is in the same directory.
-📸 Output
-
-    Text-based classification report
-    ![Capture](https://github.com/user-attachments/assets/8e6cdfef-e41d-44af-93af-1bd3c3a89552)
-
-
-
-    Confusion matrix heatmap for visual evaluation
-    ![Capture1](https://github.com/user-attachments/assets/2b7f38b2-2657-4a46-b9c0-92eee4aa9b1b)
-
-
 
 📚 Credits
 
@@ -91,9 +80,14 @@ Make sure book_genres.csv is in the same directory.
 
 ✍️ Author
 
+
+📸 Output
+Text-based classification report
+![Capture](https://github.com/user-attachments/assets/4e52f258-f759-43ad-8c9a-6d4e7edd509b)
+
+Confusion matrix heatmap for visual evaluation
+![Capture1](https://github.com/user-attachments/assets/8f0c8045-8b5e-42e8-916b-3bdedcf636f8)
+
 Name: Aryan Tomar
 Roll No: 202401100300072
 Course: B.Tech-CSE(AI)
-![Capture](https://github.com/user-attachments/assets/4e52f258-f759-43ad-8c9a-6d4e7edd509b)
-![Capture1](https://github.com/user-attachments/assets/8f0c8045-8b5e-42e8-916b-3bdedcf636f8)
-
