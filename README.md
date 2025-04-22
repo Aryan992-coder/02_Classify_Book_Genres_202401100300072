@@ -78,16 +78,22 @@ Make sure book_genres.csv is in the same directory.
 
     Developed using open-source Python libraries
 
-✍️ Author
+
 
 
 📸 Output
 Text-based classification report
+
 ![Capture](https://github.com/user-attachments/assets/4e52f258-f759-43ad-8c9a-6d4e7edd509b)
 
 Confusion matrix heatmap for visual evaluation
+
 ![Capture1](https://github.com/user-attachments/assets/8f0c8045-8b5e-42e8-916b-3bdedcf636f8)
 
+
+
+
+✍️ Author
 Name: Aryan Tomar
 Roll No: 202401100300072
 Course: B.Tech-CSE(AI)
