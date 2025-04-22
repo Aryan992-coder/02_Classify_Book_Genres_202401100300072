@@ -74,8 +74,12 @@ Make sure book_genres.csv is in the same directory.
 📸 Output
 
     Text-based classification report
+    ![Capture](https://github.com/user-attachments/assets/704688c8-fada-48b1-b0d8-72d655ac095a)
+
 
     Confusion matrix heatmap for visual evaluation
+    ![Capture1](https://github.com/user-attachments/assets/8a305a55-4743-42d8-bc56-c052cf7337f3)
+
 
 📚 Credits
 
